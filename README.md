@@ -2,13 +2,13 @@
 
 Please consult the syllabus for detailed instructions regarding how to submit programming assignments and a list of grading criteria.   Deadline: September 25, 2017
 
-Note:  Please submit assignment to the dropbox for homework 1 on the course Blackboard page.
+Note:  Please submit assignment through github classroom.  You should have received an invitation to it, let me (Prof Mandel) know if you haven't.  Github classroom might automatically submit your latest commit before the deadline as your submission, but there might also be a manual submission option available.
 
 ## Problem 0: Install Python 3.5, Anaconda, and NLTK. This isn’t graded.
 
 ## Problem 1: Adapted from Chapter 2, Programming Exercise 6 (page 54)
 
-Write a program by editing the file `invest.py` that computes the value of an interest bearing investment after n years. You should prompt the user for:
+Write a program by editing the file `invest.py` in this repository that computes the value of an interest bearing investment after n years. You should prompt the user for:
 
 1. The amount added to the investment at the start of each year
 2. The annual interest rate
@@ -22,7 +22,7 @@ Your program should print out a table that contains the following:
 4. The value of the investment at the end of the year
 5. The total amount of interest earned since the start of the investment
 
-You might want to consult the `futval.py` program in section 2.7 of the textbook for ideas.
+You might want to consult the `futval.py` program in section 2.7 of the textbook (and included in this repository) for ideas.
 
 A sample run of the program is shown below:
 
